@@ -12,12 +12,14 @@ _________
 > b) verificare la capacità di questi messaggi di favorire conversarzioni quindi engagement sul dato.
 
 
-Il primo esperimento è fatto su dati di natura meteorologica dato a partire da sorgenti dati su temperatura e umidità, che tramite opportuni indici identificano uno stato di comfort termico percepito.
+#ArdOmino Meteo
+-----
+Il primo esperimento di ArdOmino, il sensore che parla da solo, è basato su dati di natura meteorologica a partire da sorgenti dati su temperatura e umidità, che tramite opportuni indici identificano uno stato di comfort termico percepito.
 
 Gruppo di lavoro
 -----------
 
-Il progetto ArdOmino è frutto del lavoo di alcune persone:
+Il progetto ArdOmino è frutto del lavoro di alcune persone:
 
 * Alfonso Crisci - [@alf_crisci] 
 * Valentia Grasso - [@valenitna]
