@@ -22,7 +22,7 @@ Il progetto ArdOmino è frutto del lavoo di alcune persone:
 * Alfonso Crisci - [@alf_crisci] 
 * Valentia Grasso - [@valenitna]
 * Francesca De Chiara - [@lebowskiana]
-* Luca Corsato - [@lucorsato]
+* Luca Corsato - [@lucacorsato]
 
 [@alf_crisci]:http://twitter.com/alf_crisci
 [@valenitna]:http://twitter.com/valenitna
