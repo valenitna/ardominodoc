@@ -9,14 +9,20 @@ ArdOmino nasce come esperimento di engagement sui dati. Obiettivo è sia quello 
 Gli obiettivi sono di:
 > a) Mgliorare la comunicazione e la  comprensibilità dell'informazione espressa dal dato.
 _________
-> b) verificare la capacità di questi messaggi di favorire conversarzioni quindi engagement sul dato.
+> b) Verificare la capacità di questi messaggi di favorire conversarzioni quindi engagement sul dato.
 
 
 #ArdOmino Meteo
 -----
 Il primo esperimento di ArdOmino, il sensore che parla da solo, è basato su dati di natura meteorologica a partire da sorgenti dati su temperatura e umidità, che tramite opportuni indici identificano uno stato di comfort termico percepito.
 
-Gruppo di lavoro
+#Per capire meglio
+-----
+ArdOmino è stato presentato la prima volta al OKCON 2013  Ginevra, la conferenza annuale dell'Open Knowledge Foundation. La presentazione può essere visualzizata qui: [slideshareArdOmino] 
+
+Un contributo su Ardomino è stato pubblicato su [OKCONReader] 
+
+#Gruppo di lavoro
 -----------
 
 Il progetto ArdOmino è frutto del lavoro di alcune persone:
@@ -30,3 +36,4 @@ Il progetto ArdOmino è frutto del lavoro di alcune persone:
 [@valenitna]:http://twitter.com/valenitna
 [@lebowskiana]:http://twitter.com/lebowskiana
 [@lucacorsato]:http://twitter.com/lucacorsato
+[slideshareArdOmino]:http://www.slideshare.net/ValentinaGrasso/ardomino-geneva-okcon
