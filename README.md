@@ -20,7 +20,7 @@ Il primo esperimento di ArdOmino, il sensore che parla da solo, è basato su dat
 -----
 ArdOmino è stato presentato la prima volta al OKCON 2013  Ginevra, la conferenza annuale dell'Open Knowledge Foundation. La presentazione può essere visualzizata qui: [slideshareArdOmino] 
 
-Un contributo su Ardomino è stato pubblicato su [OKCONReader] 
+Un contributo su Ardomino "ArdOmino. Let's the sensors speak" è stato pubblicato su [OpenReader OKCON2013] 
 
 #Gruppo di lavoro
 -----------
@@ -37,3 +37,4 @@ Il progetto ArdOmino è frutto del lavoro di alcune persone:
 [@lebowskiana]:http://twitter.com/lebowskiana
 [@lucacorsato]:http://twitter.com/lucacorsato
 [slideshareArdOmino]:http://www.slideshare.net/ValentinaGrasso/ardomino-geneva-okcon
+[OpenReader OKCON2013]:http://books.buchundnetz.com/the2013openreader/chapter/ardomino-let-the-sensors-speak/
